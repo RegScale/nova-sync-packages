@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "sha": "ce97095bc3cb09bf0524a6c1e02830e3e1415b5d",
-  "builtAt": "2026-10-23T09:46:33.165Z",
+  "sha": "c5f044e5dc97760973dfdd8e10ec1c16bf07545a",
+  "builtAt": "2026-10-24T15:07:13.015Z",
   "fileKey": "xhpokk41T7GbWZXzEUcCQL",
   "manifestSha256": "6515aa30f59ae0bba65aef92182eedfa93411fe6825889ea127a3ee561842c1e",
   "manifest": {
@@ -7366,15 +7366,15 @@
       "cssVar": "--rs-color-chart-1",
       "codeSyntax": "var(--rs-color-chart-1)",
       "light": {
-        "r": 0.18441441840324613,
-        "g": 0.4980592900132989,
-        "b": 0.831318551594612,
+        "r": 0.0628775585259072,
+        "g": 0.3059286867216183,
+        "b": 0.392189187723665,
         "a": 1
       },
       "dark": {
-        "r": 0.18441441840324613,
-        "g": 0.4980592900132989,
-        "b": 0.831318551594612,
+        "r": 0.0628775585259072,
+        "g": 0.3059286867216183,
+        "b": 0.392189187723665,
         "a": 1
       },
       "scopes": [
@@ -7389,15 +7389,15 @@
       "cssVar": "--rs-color-chart-2",
       "codeSyntax": "var(--rs-color-chart-2)",
       "light": {
-        "r": 0.85087359502372,
-        "g": 0.4353064175858406,
-        "b": 0.16881150900474368,
+        "r": 0.0011909838307129692,
+        "g": 0.5882404932690571,
+        "b": 0.5372986730575996,
         "a": 1
       },
       "dark": {
-        "r": 0.85087359502372,
-        "g": 0.4353064175858406,
-        "b": 0.16881150900474368,
+        "r": 0.0011909838307129692,
+        "g": 0.5882404932690571,
+        "b": 0.5372986730575996,
         "a": 1
       },
       "scopes": [
@@ -7412,15 +7412,15 @@
       "cssVar": "--rs-color-chart-3",
       "codeSyntax": "var(--rs-color-chart-3)",
       "light": {
-        "r": 0.0010183762833711391,
-        "g": 0.584333009860189,
-        "b": 0.5411990137773433,
+        "r": 0.9607916077304693,
+        "g": 0.290135939302896,
+        "b": 0,
         "a": 1
       },
       "dark": {
-        "r": 0.0010183762833711391,
-        "g": 0.584333009860189,
-        "b": 0.5411990137773433,
+        "r": 0.9607916077304693,
+        "g": 0.290135939302896,
+        "b": 0,
         "a": 1
       },
       "scopes": [
@@ -7435,15 +7435,15 @@
       "cssVar": "--rs-color-chart-4",
       "codeSyntax": "var(--rs-color-chart-4)",
       "light": {
-        "r": 0.6587496420761039,
-        "g": 0.4941139559335363,
-        "b": 0.0004607061456179773,
+        "r": 0.9724282857607675,
+        "g": 0.44318395804251065,
+        "b": 0.4431341024479005,
         "a": 1
       },
       "dark": {
-        "r": 0.6587496420761039,
-        "g": 0.4941139559335363,
-        "b": 0.0004607061456179773,
+        "r": 0.9724282857607675,
+        "g": 0.44318395804251065,
+        "b": 0.4431341024479005,
         "a": 1
       },
       "scopes": [
@@ -7458,15 +7458,15 @@
       "cssVar": "--rs-color-chart-5",
       "codeSyntax": "var(--rs-color-chart-5)",
       "light": {
-        "r": 0.48632461265093213,
-        "g": 0.30980553356170887,
-        "b": 0.7882531462360403,
+        "r": 0.9999411252898224,
+        "g": 0.725484436578328,
+        "b": 0.0004986601713279226,
         "a": 1
       },
       "dark": {
-        "r": 0.592118360306585,
-        "g": 0.4196122482790342,
-        "b": 0.8784257876864189,
+        "r": 0.9999411252898224,
+        "g": 0.725484436578328,
+        "b": 0.0004986601713279226,
         "a": 1
       },
       "scopes": [
@@ -7481,15 +7481,15 @@
       "cssVar": "--rs-color-chart-6",
       "codeSyntax": "var(--rs-color-chart-6)",
       "light": {
-        "r": 0.43525868542340906,
-        "g": 0.5764575077451044,
-        "b": 0.09017495449843899,
+        "r": 0.9960617106904975,
+        "g": 0.6039215734341473,
+        "b": 0,
         "a": 1
       },
       "dark": {
-        "r": 0.43525868542340906,
-        "g": 0.5764575077451044,
-        "b": 0.09017495449843899,
+        "r": 0.9960617106904975,
+        "g": 0.6039215734341473,
+        "b": 0,
         "a": 1
       },
       "scopes": [
@@ -7504,15 +7504,15 @@
       "cssVar": "--rs-color-chart-7",
       "codeSyntax": "var(--rs-color-chart-7)",
       "light": {
-        "r": 0.886293112227289,
-        "g": 0.40006055025654275,
-        "b": 0.6196266610836649,
+        "r": 0.21948577918377266,
+        "g": 0.7411655535664539,
+        "b": 0.9725490321741456,
         "a": 1
       },
       "dark": {
-        "r": 0.8391660772701669,
-        "g": 0.36072369293267764,
-        "b": 0.5646813269761108,
+        "r": 0.21948577918377266,
+        "g": 0.7411655535664539,
+        "b": 0.9725490321741456,
         "a": 1
       },
       "scopes": [
@@ -7527,15 +7527,15 @@
       "cssVar": "--rs-color-chart-8",
       "codeSyntax": "var(--rs-color-chart-8)",
       "light": {
-        "r": 0.6392405926062458,
-        "g": 0.3529292393666595,
-        "b": 0.18031147450529816,
+        "r": 0.23135000886349988,
+        "g": 0.5098441553019973,
+        "b": 0.9646918440991678,
         "a": 1
       },
       "dark": {
-        "r": 0.6392405926062458,
-        "g": 0.3529292393666595,
-        "b": 0.18031147450529816,
+        "r": 0.23135000886349988,
+        "g": 0.5098441553019973,
+        "b": 0.9646918440991678,
         "a": 1
       },
       "scopes": [
@@ -7550,15 +7550,15 @@
       "cssVar": "--rs-color-chart-9",
       "codeSyntax": "var(--rs-color-chart-9)",
       "light": {
-        "r": 0.1688310894182928,
-        "g": 0.5765234224411864,
-        "b": 0.7333494094335576,
+        "r": 0.14503186992505093,
+        "g": 0.38817980111164574,
+        "b": 0.921482733184422,
         "a": 1
       },
       "dark": {
-        "r": 0.15712890640108435,
-        "g": 0.6157270239626397,
-        "b": 0.7882618285343649,
+        "r": 0.14503186992505093,
+        "g": 0.38817980111164574,
+        "b": 0.921482733184422,
         "a": 1
       },
       "scopes": [
@@ -7573,15 +7573,61 @@
       "cssVar": "--rs-color-chart-10",
       "codeSyntax": "var(--rs-color-chart-10)",
       "light": {
-        "r": 0.2980737701376517,
-        "g": 0.27458189583529014,
-        "b": 0.7843594151955827,
+        "r": 0.11760841679454967,
+        "g": 0.25089167512450716,
+        "b": 0.6862798358158521,
         "a": 1
       },
       "dark": {
-        "r": 0.4000341123367324,
-        "g": 0.36871877853061813,
-        "b": 0.8784196042044495,
+        "r": 0.11760841679454967,
+        "g": 0.25089167512450716,
+        "b": 0.6862798358158521,
+        "a": 1
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ]
+    },
+    {
+      "collection": "Color",
+      "kind": "color",
+      "name": "chart/11",
+      "cssVar": "--rs-color-chart-11",
+      "codeSyntax": "var(--rs-color-chart-11)",
+      "light": {
+        "r": 0.6549391028157868,
+        "g": 0.5451144825531179,
+        "b": 0.9805044380301396,
+        "a": 1
+      },
+      "dark": {
+        "r": 0.6549391028157868,
+        "g": 0.5451144825531179,
+        "b": 0.9805044380301396,
+        "a": 1
+      },
+      "scopes": [
+        "FRAME_FILL",
+        "SHAPE_FILL"
+      ]
+    },
+    {
+      "collection": "Color",
+      "kind": "color",
+      "name": "chart/12",
+      "cssVar": "--rs-color-chart-12",
+      "codeSyntax": "var(--rs-color-chart-12)",
+      "light": {
+        "r": 0.5450802809023211,
+        "g": 0.360753818353169,
+        "b": 0.9646229102169864,
+        "a": 1
+      },
+      "dark": {
+        "r": 0.5450802809023211,
+        "g": 0.360753818353169,
+        "b": 0.9646229102169864,
         "a": 1
       },
       "scopes": [
@@ -8866,7 +8912,7 @@
     }
   ],
   "plan": {
-    "generatedAt": "2026-10-23T09:46:33.165Z",
+    "generatedAt": "2026-10-24T15:07:13.015Z",
     "fileKey": "xhpokk41T7GbWZXzEUcCQL",
     "collections": {
       "Color": {
@@ -9514,15 +9560,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.18441441840324613,
-                "g": 0.4980592900132989,
-                "b": 0.831318551594612,
+                "r": 0.0628775585259072,
+                "g": 0.3059286867216183,
+                "b": 0.392189187723665,
                 "a": 1
               },
               "3:1": {
-                "r": 0.18441441840324613,
-                "g": 0.4980592900132989,
-                "b": 0.831318551594612,
+                "r": 0.0628775585259072,
+                "g": 0.3059286867216183,
+                "b": 0.392189187723665,
                 "a": 1
               }
             }
@@ -9538,15 +9584,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.85087359502372,
-                "g": 0.4353064175858406,
-                "b": 0.16881150900474368,
+                "r": 0.0011909838307129692,
+                "g": 0.5882404932690571,
+                "b": 0.5372986730575996,
                 "a": 1
               },
               "3:1": {
-                "r": 0.85087359502372,
-                "g": 0.4353064175858406,
-                "b": 0.16881150900474368,
+                "r": 0.0011909838307129692,
+                "g": 0.5882404932690571,
+                "b": 0.5372986730575996,
                 "a": 1
               }
             }
@@ -9562,15 +9608,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.0010183762833711391,
-                "g": 0.584333009860189,
-                "b": 0.5411990137773433,
+                "r": 0.9607916077304693,
+                "g": 0.290135939302896,
+                "b": 0,
                 "a": 1
               },
               "3:1": {
-                "r": 0.0010183762833711391,
-                "g": 0.584333009860189,
-                "b": 0.5411990137773433,
+                "r": 0.9607916077304693,
+                "g": 0.290135939302896,
+                "b": 0,
                 "a": 1
               }
             }
@@ -9586,15 +9632,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.6587496420761039,
-                "g": 0.4941139559335363,
-                "b": 0.0004607061456179773,
+                "r": 0.9724282857607675,
+                "g": 0.44318395804251065,
+                "b": 0.4431341024479005,
                 "a": 1
               },
               "3:1": {
-                "r": 0.6587496420761039,
-                "g": 0.4941139559335363,
-                "b": 0.0004607061456179773,
+                "r": 0.9724282857607675,
+                "g": 0.44318395804251065,
+                "b": 0.4431341024479005,
                 "a": 1
               }
             }
@@ -9610,15 +9656,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.48632461265093213,
-                "g": 0.30980553356170887,
-                "b": 0.7882531462360403,
+                "r": 0.9999411252898224,
+                "g": 0.725484436578328,
+                "b": 0.0004986601713279226,
                 "a": 1
               },
               "3:1": {
-                "r": 0.592118360306585,
-                "g": 0.4196122482790342,
-                "b": 0.8784257876864189,
+                "r": 0.9999411252898224,
+                "g": 0.725484436578328,
+                "b": 0.0004986601713279226,
                 "a": 1
               }
             }
@@ -9634,15 +9680,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.43525868542340906,
-                "g": 0.5764575077451044,
-                "b": 0.09017495449843899,
+                "r": 0.9960617106904975,
+                "g": 0.6039215734341473,
+                "b": 0,
                 "a": 1
               },
               "3:1": {
-                "r": 0.43525868542340906,
-                "g": 0.5764575077451044,
-                "b": 0.09017495449843899,
+                "r": 0.9960617106904975,
+                "g": 0.6039215734341473,
+                "b": 0,
                 "a": 1
               }
             }
@@ -9658,15 +9704,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.886293112227289,
-                "g": 0.40006055025654275,
-                "b": 0.6196266610836649,
+                "r": 0.21948577918377266,
+                "g": 0.7411655535664539,
+                "b": 0.9725490321741456,
                 "a": 1
               },
               "3:1": {
-                "r": 0.8391660772701669,
-                "g": 0.36072369293267764,
-                "b": 0.5646813269761108,
+                "r": 0.21948577918377266,
+                "g": 0.7411655535664539,
+                "b": 0.9725490321741456,
                 "a": 1
               }
             }
@@ -9682,15 +9728,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.6392405926062458,
-                "g": 0.3529292393666595,
-                "b": 0.18031147450529816,
+                "r": 0.23135000886349988,
+                "g": 0.5098441553019973,
+                "b": 0.9646918440991678,
                 "a": 1
               },
               "3:1": {
-                "r": 0.6392405926062458,
-                "g": 0.3529292393666595,
-                "b": 0.18031147450529816,
+                "r": 0.23135000886349988,
+                "g": 0.5098441553019973,
+                "b": 0.9646918440991678,
                 "a": 1
               }
             }
@@ -9706,15 +9752,15 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.1688310894182928,
-                "g": 0.5765234224411864,
-                "b": 0.7333494094335576,
+                "r": 0.14503186992505093,
+                "g": 0.38817980111164574,
+                "b": 0.921482733184422,
                 "a": 1
               },
               "3:1": {
-                "r": 0.15712890640108435,
-                "g": 0.6157270239626397,
-                "b": 0.7882618285343649,
+                "r": 0.14503186992505093,
+                "g": 0.38817980111164574,
+                "b": 0.921482733184422,
                 "a": 1
               }
             }
@@ -9730,15 +9776,63 @@
             ],
             "values": {
               "3:0": {
-                "r": 0.2980737701376517,
-                "g": 0.27458189583529014,
-                "b": 0.7843594151955827,
+                "r": 0.11760841679454967,
+                "g": 0.25089167512450716,
+                "b": 0.6862798358158521,
                 "a": 1
               },
               "3:1": {
-                "r": 0.4000341123367324,
-                "g": 0.36871877853061813,
-                "b": 0.8784196042044495,
+                "r": 0.11760841679454967,
+                "g": 0.25089167512450716,
+                "b": 0.6862798358158521,
+                "a": 1
+              }
+            }
+          },
+          {
+            "key": "var(--rs-color-chart-11)",
+            "name": "chart/11",
+            "type": "COLOR",
+            "codeSyntax": "var(--rs-color-chart-11)",
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "values": {
+              "3:0": {
+                "r": 0.6549391028157868,
+                "g": 0.5451144825531179,
+                "b": 0.9805044380301396,
+                "a": 1
+              },
+              "3:1": {
+                "r": 0.6549391028157868,
+                "g": 0.5451144825531179,
+                "b": 0.9805044380301396,
+                "a": 1
+              }
+            }
+          },
+          {
+            "key": "var(--rs-color-chart-12)",
+            "name": "chart/12",
+            "type": "COLOR",
+            "codeSyntax": "var(--rs-color-chart-12)",
+            "scopes": [
+              "FRAME_FILL",
+              "SHAPE_FILL"
+            ],
+            "values": {
+              "3:0": {
+                "r": 0.5450802809023211,
+                "g": 0.360753818353169,
+                "b": 0.9646229102169864,
+                "a": 1
+              },
+              "3:1": {
+                "r": 0.5450802809023211,
+                "g": 0.360753818353169,
+                "b": 0.9646229102169864,
                 "a": 1
               }
             }
@@ -11618,16 +11712,16 @@
       "unchanged": 49
     },
     "totals": {
-      "creates": 61,
+      "creates": 63,
       "updates": 0,
       "syntaxFixes": 2,
       "effects": 10
     }
   },
-  "report": "# Figma sync — dry run — ce97095\n\n## Tokens\n\n### Created (61)\n\n| Variable | Light / Dark |\n| --- | --- |\n| `var(--rs-color-popover)` | #ffffff / #171717 |\n| `var(--rs-color-popover-foreground)` | #0a0a0a / #fafafa |\n| `var(--rs-color-secondary-foreground)` | #171717 / #f8fafc |\n| `var(--rs-color-accent)` | #f5f5f5 / #262626 |\n| `var(--rs-color-destructive-emphasis)` | #c63d36 / #c63d36 |\n| `var(--rs-color-destructive-emphasis-foreground)` | #ffffff / #ffffff |\n| `var(--rs-color-success-foreground)` | #ffffff / #0a0a0a |\n| `var(--rs-color-success-emphasis-foreground)` | #ffffff / #ffffff |\n| `var(--rs-color-warning-text)` | #8f5d04 / #f59f0a |\n| `var(--rs-color-info-foreground)` | #ffffff / #ffffff |\n| `var(--rs-color-info-text)` | #0a61a9 / #75bcff |\n| `var(--rs-color-primary-text-foreground)` | #ffffff / #171717 |\n| `var(--rs-color-input-focus-ring)` | #2563eb 80% / #60a5fa 80% |\n| `var(--rs-color-dialog-styled-header-background)` | #1a1d2e / #262626 |\n| `var(--rs-color-dialog-styled-header-foreground)` | #fafafa / #ffffff |\n| `var(--rs-color-rarity-common-bg)` | #e8eaee / #454a54 |\n| `var(--rs-color-rarity-common-fg)` | #454e5e / #c0c5ce |\n| `var(--rs-color-rarity-uncommon-bg)` | #e1faea / #1c5431 |\n| `var(--rs-color-rarity-uncommon-fg)` | #0e622d / #94f9b9 |\n| `var(--rs-color-rarity-rare-bg)` | #e2f1fe / #204360 |\n| `var(--rs-color-rarity-rare-fg)` | #074e88 / #a8d5fa |\n| `var(--rs-color-rarity-epic-bg)` | #f0e7fd / #432b64 |\n| `var(--rs-color-rarity-epic-fg)` | #501f93 / #caa8fa |\n| `var(--rs-color-rarity-legendary-bg)` | #fdf0d8 / #664a19 |\n| `var(--rs-color-rarity-legendary-fg)` | #8b5904 / #fcd592 |\n| `var(--rs-color-rarity-mythic-bg)` | #fce8e8 / #6b2424 |\n| `var(--rs-color-rarity-mythic-fg)` | #9c1616 / #fba7a7 |\n| `var(--rs-color-chart-1)` | #2f7fd4 / #2f7fd4 |\n| `var(--rs-color-chart-2)` | #d96f2b / #d96f2b |\n| `var(--rs-color-chart-3)` | #00958a / #00958a |\n| `var(--rs-color-chart-4)` | #a87e00 / #a87e00 |\n| `var(--rs-color-chart-5)` | #7c4fc9 / #976be0 |\n| `var(--rs-color-chart-6)` | #6f9317 / #6f9317 |\n| `var(--rs-color-chart-7)` | #e2669e / #d65c90 |\n| `var(--rs-color-chart-8)` | #a35a2e / #a35a2e |\n| `var(--rs-color-chart-9)` | #2b93bb / #289dc9 |\n| `var(--rs-color-chart-10)` | #4c46c8 / #665ee0 |\n| `var(--rs-color-status-fully-implemented)` | #16a34a / #16a34a |\n| `var(--rs-color-status-partially-implemented)` | #eab308 / #eab308 |\n| `var(--rs-color-status-not-implemented)` | #f87171 / #f87171 |\n| `var(--rs-color-status-planned)` | #3f8dff / #3f8dff |\n| `var(--rs-color-status-inherited)` | #c084fc / #c084fc |\n| `var(--rs-color-status-in-remediation)` | #009689 / #009689 |\n| `var(--rs-color-status-not-applicable)` | #d4d4d4 / #d4d4d4 |\n| `var(--rs-color-issue-1)` | #d8400e / #d8400e |\n| `var(--rs-color-issue-2)` | #2b3045 / #2b3045 |\n| `var(--rs-color-issue-3)` | #5c6a7a / #5c6a7a |\n| `var(--rs-color-issue-4)` | #047c78 / #047c78 |\n| `var(--rs-color-issue-5)` | #7f6409 / #7f6409 |\n| `var(--rs-color-issue-6)` | #047c78 / #047c78 |\n| `var(--rs-color-issue-7)` | #c61010 / #c61010 |\n| `var(--rs-color-issue-8)` | #006bb3 / #006bb3 |\n| `var(--rs-color-issue-9)` | #41c3c6 / #41c3c6 |\n| `var(--rs-color-issue-10)` | #c03502 / #c03502 |\n| `var(--rs-color-issue-11)` | #f3931f / #f3931f |\n| `var(--rs-color-issue-12)` | #f3c41f / #f3c41f |\n| `var(--rs-color-perf-other-1)` | #006bb3 / #006bb3 |\n| `var(--rs-color-perf-other-2)` | #000000 / #000000 |\n| `var(--rs-color-perf-other-3)` | #001e33 / #001e33 |\n| `var(--rs-color-perf-other-4)` | #003c66 / #003c66 |\n| `var(--rs-color-perf-other-5)` | #005b99 / #005b99 |\n\n### Updated (0)\n\n### Code syntax fixed (2)\n\n| Variable | Code syntax |\n| --- | --- |\n| `var(--rs-color-info-background)` | `var(--rs-color-info-background)` |\n| `var(--rs-color-icon-foreground)` | `var(--rs-color-icon-foreground)` |\n\n### Pending reconciliation (25)\n\n| Variable | Code (light / dark) | Figma (light / dark) |\n| --- | --- | --- |\n| `var(--rs-color-foreground)` | #0a0a0a / #fafafa | #1e293b / #f8fafc |\n| `var(--rs-color-card)` | #ffffff / #171717 | #ffffff / #0a0a0a |\n| `var(--rs-color-primary)` | #2663eb / #1854db | #2563eb / #1d4ed8 |\n| `var(--rs-color-primary-foreground)` | #fafafa / #ffffff | #ffffff / #ffffff |\n| `var(--rs-color-muted)` | #f5f5f5 / #262626 | #fafafa / #262626 |\n| `var(--rs-color-muted-foreground)` | #696969 / #a1a1a1 | #475569 / #d4d4d4 |\n| `var(--rs-color-destructive)` | #c63d36 / #ff6467 | #dc2626 / #f87171 |\n| `var(--rs-color-destructive-foreground)` | #ffffff / #000000 | #ffffff / #171717 |\n| `var(--rs-color-border)` | #e5e5e5 / #ffffff 10% | #d4d4d4 / #ffffff 15% |\n| `var(--rs-color-input)` | #e5e5e5 / #ffffff 10% | #d4d4d4 / #ffffff 10% |\n| `var(--rs-color-ring)` | #a1a1a1 / #737373 | #2563eb 80% / #60a5fa 80% |\n| `var(--rs-color-success)` | #008700 / #5edb53 | #169344 / #22c55e |\n| `var(--rs-color-success-text)` | #008700 / #5edb53 | #1e293b / #22c55e |\n| `var(--rs-color-success-muted)` | #438056 / #8ac198 | #15803d / #8ac198 |\n| `var(--rs-color-success-emphasis)` | #21771a / #21771a | #15803d / #15803d |\n| `var(--rs-color-warning)` | #f59f0a / #f59f0a | #d97706 / #fe9a00 |\n| `var(--rs-color-warning-foreground)` | #0a0a0a / #0a0a0a | #262626 / #fe9a00 |\n| `var(--rs-color-info)` | #0a61a9 / #2077c6 | #0a61a9 / #0369a1 |\n| `var(--rs-color-input-text)` | #262626 / #d4d4d4 | #1e293b / #d4d4d4 |\n| `var(--rs-color-placeholder)` | #637188 / #828997 | #737373 / #a3a3a3 |\n| `var(--rs-color-primary-text)` | #1b4ed8 / #60a5fa | #2563eb / #60a5fa |\n| `var(--rs-color-state-inherited-bg)` | #e2f1fe / #204360 | #e0f2fe / #204360 |\n| `var(--rs-color-state-inherited-fg)` | #074e88 / #a8d5fa | #0a61a9 / #a8d5fa |\n| `var(--rs-color-state-unknown-bg)` | #e8eaee / #454a54 | #f5f5f5 / #404040 |\n| `var(--rs-color-state-unknown-fg)` | #454e5e / #c0c5ce | #404040 / #d4d4d4 |\n\nEdited in Figma since the last sync; not overwritten. Pick \"Use code\" for the row in the Nova Sync plugin's Review screen, or land the change in code.\n\n### Figma-only (108)\n\n`dialog-header`, `destructive-background`, `success-background`, `red/500`, `red/600`, `red/700`, `red/800`, `red/900`, `red/950`, `amber/50`, `amber/100`, `amber/200`, `amber/300`, `amber/400`, `amber/500`, `amber/600`, `amber/700`, `amber/800`, `amber/900`, `amber/950`, `rail-background`, `rail-icon-active-background`, `rail-text-default`, `rail-icon-text-default`, `green/950`, `green/900`, `green/800`, `green/700`, `green/650`, `green/600`, `green/500`, `green/400`, `green/300`, `green/200`, `green/100`, `green/50`, `regscale-dark-navy`, `regscale-navy`, `cyan/500`, `orange/600`, `table header`, `table background`, `Violet/50`, `Violet/100`, `Violet/200`, `Violet/300`, `Violet/400`, `Violet/500`, `Violet/600`, `violet/700`, `violet/800`, `violet/900`, `violet/950`, `regscale-green`, `warning`, `warning-background`, `blue/50`, `blue/100`, `blue/200`, `blue/300`, `blue/400`, `blue/500`, `blue/600`, `blue/700`, `blue/800`, `blue/900`, `blue/950`, `sky/50`, `sky/100`, `sky/200`, `sky/300`, `sky/400`, `sky/500`, `sky/600`, `sky/700`, `sky/800`, `sky/900`, `sky/950`, `slate/50`, `slate/100`, `slate/200`, `slate/300`, `slate/350`, `slate/400`, `slate/450`, `slate/500`, `slate/600`, `slate/700`, `slate/800`, `slate/900`, `slate/950`, `neutral/50`, `neutral/100`, `neutral/200`, `neutral/300`, `neutral/400`, `neutral/450`, `neutral/500`, `neutral/600`, `neutral/700`, `neutral/800`, `neutral/900`, `neutral/950`, `red/50`, `red/100`, `red/200`, `red/300`, `red/400`\n\n### Unchanged: 49\n\n## Effect styles\n\n- `Shadow/shadow-elevation-1/Light`: 1 layer(s)\n- `Shadow/shadow-elevation-1/Dark`: 1 layer(s)\n- `Shadow/shadow-elevation-2/Light`: 2 layer(s)\n- `Shadow/shadow-elevation-2/Dark`: 2 layer(s)\n- `Shadow/shadow-elevation-3/Light`: 2 layer(s)\n- `Shadow/shadow-elevation-3/Dark`: 2 layer(s)\n- `Shadow/input-box-shadow/Light`: 2 layer(s)\n- `Shadow/input-box-shadow/Dark`: 2 layer(s)\n- `Shadow/shadow-elevation-overlay/Light`: 2 layer(s)\n- `Shadow/shadow-elevation-overlay/Dark`: 2 layer(s)\n\n## Now publish\n\nNo changes were written.",
+  "report": "# Figma sync — dry run — c5f044e\n\n## Tokens\n\n### Created (63)\n\n| Variable | Light / Dark |\n| --- | --- |\n| `var(--rs-color-popover)` | #ffffff / #171717 |\n| `var(--rs-color-popover-foreground)` | #0a0a0a / #fafafa |\n| `var(--rs-color-secondary-foreground)` | #171717 / #f8fafc |\n| `var(--rs-color-accent)` | #f5f5f5 / #262626 |\n| `var(--rs-color-destructive-emphasis)` | #c63d36 / #c63d36 |\n| `var(--rs-color-destructive-emphasis-foreground)` | #ffffff / #ffffff |\n| `var(--rs-color-success-foreground)` | #ffffff / #0a0a0a |\n| `var(--rs-color-success-emphasis-foreground)` | #ffffff / #ffffff |\n| `var(--rs-color-warning-text)` | #8f5d04 / #f59f0a |\n| `var(--rs-color-info-foreground)` | #ffffff / #ffffff |\n| `var(--rs-color-info-text)` | #0a61a9 / #75bcff |\n| `var(--rs-color-primary-text-foreground)` | #ffffff / #171717 |\n| `var(--rs-color-input-focus-ring)` | #2563eb 80% / #60a5fa 80% |\n| `var(--rs-color-dialog-styled-header-background)` | #1a1d2e / #262626 |\n| `var(--rs-color-dialog-styled-header-foreground)` | #fafafa / #ffffff |\n| `var(--rs-color-rarity-common-bg)` | #e8eaee / #454a54 |\n| `var(--rs-color-rarity-common-fg)` | #454e5e / #c0c5ce |\n| `var(--rs-color-rarity-uncommon-bg)` | #e1faea / #1c5431 |\n| `var(--rs-color-rarity-uncommon-fg)` | #0e622d / #94f9b9 |\n| `var(--rs-color-rarity-rare-bg)` | #e2f1fe / #204360 |\n| `var(--rs-color-rarity-rare-fg)` | #074e88 / #a8d5fa |\n| `var(--rs-color-rarity-epic-bg)` | #f0e7fd / #432b64 |\n| `var(--rs-color-rarity-epic-fg)` | #501f93 / #caa8fa |\n| `var(--rs-color-rarity-legendary-bg)` | #fdf0d8 / #664a19 |\n| `var(--rs-color-rarity-legendary-fg)` | #8b5904 / #fcd592 |\n| `var(--rs-color-rarity-mythic-bg)` | #fce8e8 / #6b2424 |\n| `var(--rs-color-rarity-mythic-fg)` | #9c1616 / #fba7a7 |\n| `var(--rs-color-chart-1)` | #104e64 / #104e64 |\n| `var(--rs-color-chart-2)` | #009689 / #009689 |\n| `var(--rs-color-chart-3)` | #f54a00 / #f54a00 |\n| `var(--rs-color-chart-4)` | #f87171 / #f87171 |\n| `var(--rs-color-chart-5)` | #ffb900 / #ffb900 |\n| `var(--rs-color-chart-6)` | #fe9a00 / #fe9a00 |\n| `var(--rs-color-chart-7)` | #38bdf8 / #38bdf8 |\n| `var(--rs-color-chart-8)` | #3b82f6 / #3b82f6 |\n| `var(--rs-color-chart-9)` | #2563eb / #2563eb |\n| `var(--rs-color-chart-10)` | #1e40af / #1e40af |\n| `var(--rs-color-chart-11)` | #a78bfa / #a78bfa |\n| `var(--rs-color-chart-12)` | #8b5cf6 / #8b5cf6 |\n| `var(--rs-color-status-fully-implemented)` | #16a34a / #16a34a |\n| `var(--rs-color-status-partially-implemented)` | #eab308 / #eab308 |\n| `var(--rs-color-status-not-implemented)` | #f87171 / #f87171 |\n| `var(--rs-color-status-planned)` | #3f8dff / #3f8dff |\n| `var(--rs-color-status-inherited)` | #c084fc / #c084fc |\n| `var(--rs-color-status-in-remediation)` | #009689 / #009689 |\n| `var(--rs-color-status-not-applicable)` | #d4d4d4 / #d4d4d4 |\n| `var(--rs-color-issue-1)` | #d8400e / #d8400e |\n| `var(--rs-color-issue-2)` | #2b3045 / #2b3045 |\n| `var(--rs-color-issue-3)` | #5c6a7a / #5c6a7a |\n| `var(--rs-color-issue-4)` | #047c78 / #047c78 |\n| `var(--rs-color-issue-5)` | #7f6409 / #7f6409 |\n| `var(--rs-color-issue-6)` | #047c78 / #047c78 |\n| `var(--rs-color-issue-7)` | #c61010 / #c61010 |\n| `var(--rs-color-issue-8)` | #006bb3 / #006bb3 |\n| `var(--rs-color-issue-9)` | #41c3c6 / #41c3c6 |\n| `var(--rs-color-issue-10)` | #c03502 / #c03502 |\n| `var(--rs-color-issue-11)` | #f3931f / #f3931f |\n| `var(--rs-color-issue-12)` | #f3c41f / #f3c41f |\n| `var(--rs-color-perf-other-1)` | #006bb3 / #006bb3 |\n| `var(--rs-color-perf-other-2)` | #000000 / #000000 |\n| `var(--rs-color-perf-other-3)` | #001e33 / #001e33 |\n| `var(--rs-color-perf-other-4)` | #003c66 / #003c66 |\n| `var(--rs-color-perf-other-5)` | #005b99 / #005b99 |\n\n### Updated (0)\n\n### Code syntax fixed (2)\n\n| Variable | Code syntax |\n| --- | --- |\n| `var(--rs-color-info-background)` | `var(--rs-color-info-background)` |\n| `var(--rs-color-icon-foreground)` | `var(--rs-color-icon-foreground)` |\n\n### Pending reconciliation (25)\n\n| Variable | Code (light / dark) | Figma (light / dark) |\n| --- | --- | --- |\n| `var(--rs-color-foreground)` | #0a0a0a / #fafafa | #1e293b / #f8fafc |\n| `var(--rs-color-card)` | #ffffff / #171717 | #ffffff / #0a0a0a |\n| `var(--rs-color-primary)` | #2663eb / #1854db | #2563eb / #1d4ed8 |\n| `var(--rs-color-primary-foreground)` | #fafafa / #ffffff | #ffffff / #ffffff |\n| `var(--rs-color-muted)` | #f5f5f5 / #262626 | #fafafa / #262626 |\n| `var(--rs-color-muted-foreground)` | #696969 / #a1a1a1 | #475569 / #d4d4d4 |\n| `var(--rs-color-destructive)` | #c63d36 / #ff6467 | #dc2626 / #f87171 |\n| `var(--rs-color-destructive-foreground)` | #ffffff / #000000 | #ffffff / #171717 |\n| `var(--rs-color-border)` | #e5e5e5 / #ffffff 10% | #d4d4d4 / #ffffff 15% |\n| `var(--rs-color-input)` | #e5e5e5 / #ffffff 10% | #d4d4d4 / #ffffff 10% |\n| `var(--rs-color-ring)` | #a1a1a1 / #737373 | #2563eb 80% / #60a5fa 80% |\n| `var(--rs-color-success)` | #008700 / #5edb53 | #169344 / #22c55e |\n| `var(--rs-color-success-text)` | #008700 / #5edb53 | #1e293b / #22c55e |\n| `var(--rs-color-success-muted)` | #438056 / #8ac198 | #15803d / #8ac198 |\n| `var(--rs-color-success-emphasis)` | #21771a / #21771a | #15803d / #15803d |\n| `var(--rs-color-warning)` | #f59f0a / #f59f0a | #d97706 / #fe9a00 |\n| `var(--rs-color-warning-foreground)` | #0a0a0a / #0a0a0a | #262626 / #fe9a00 |\n| `var(--rs-color-info)` | #0a61a9 / #2077c6 | #0a61a9 / #0369a1 |\n| `var(--rs-color-input-text)` | #262626 / #d4d4d4 | #1e293b / #d4d4d4 |\n| `var(--rs-color-placeholder)` | #637188 / #828997 | #737373 / #a3a3a3 |\n| `var(--rs-color-primary-text)` | #1b4ed8 / #60a5fa | #2563eb / #60a5fa |\n| `var(--rs-color-state-inherited-bg)` | #e2f1fe / #204360 | #e0f2fe / #204360 |\n| `var(--rs-color-state-inherited-fg)` | #074e88 / #a8d5fa | #0a61a9 / #a8d5fa |\n| `var(--rs-color-state-unknown-bg)` | #e8eaee / #454a54 | #f5f5f5 / #404040 |\n| `var(--rs-color-state-unknown-fg)` | #454e5e / #c0c5ce | #404040 / #d4d4d4 |\n\nEdited in Figma since the last sync; not overwritten. Pick \"Use code\" for the row in the Nova Sync plugin's Review screen, or land the change in code.\n\n### Figma-only (108)\n\n`dialog-header`, `destructive-background`, `success-background`, `red/500`, `red/600`, `red/700`, `red/800`, `red/900`, `red/950`, `amber/50`, `amber/100`, `amber/200`, `amber/300`, `amber/400`, `amber/500`, `amber/600`, `amber/700`, `amber/800`, `amber/900`, `amber/950`, `rail-background`, `rail-icon-active-background`, `rail-text-default`, `rail-icon-text-default`, `green/950`, `green/900`, `green/800`, `green/700`, `green/650`, `green/600`, `green/500`, `green/400`, `green/300`, `green/200`, `green/100`, `green/50`, `regscale-dark-navy`, `regscale-navy`, `cyan/500`, `orange/600`, `table header`, `table background`, `Violet/50`, `Violet/100`, `Violet/200`, `Violet/300`, `Violet/400`, `Violet/500`, `Violet/600`, `violet/700`, `violet/800`, `violet/900`, `violet/950`, `regscale-green`, `warning`, `warning-background`, `blue/50`, `blue/100`, `blue/200`, `blue/300`, `blue/400`, `blue/500`, `blue/600`, `blue/700`, `blue/800`, `blue/900`, `blue/950`, `sky/50`, `sky/100`, `sky/200`, `sky/300`, `sky/400`, `sky/500`, `sky/600`, `sky/700`, `sky/800`, `sky/900`, `sky/950`, `slate/50`, `slate/100`, `slate/200`, `slate/300`, `slate/350`, `slate/400`, `slate/450`, `slate/500`, `slate/600`, `slate/700`, `slate/800`, `slate/900`, `slate/950`, `neutral/50`, `neutral/100`, `neutral/200`, `neutral/300`, `neutral/400`, `neutral/450`, `neutral/500`, `neutral/600`, `neutral/700`, `neutral/800`, `neutral/900`, `neutral/950`, `red/50`, `red/100`, `red/200`, `red/300`, `red/400`\n\n### Unchanged: 49\n\n## Effect styles\n\n- `Shadow/shadow-elevation-1/Light`: 1 layer(s)\n- `Shadow/shadow-elevation-1/Dark`: 1 layer(s)\n- `Shadow/shadow-elevation-2/Light`: 2 layer(s)\n- `Shadow/shadow-elevation-2/Dark`: 2 layer(s)\n- `Shadow/shadow-elevation-3/Light`: 2 layer(s)\n- `Shadow/shadow-elevation-3/Dark`: 2 layer(s)\n- `Shadow/input-box-shadow/Light`: 2 layer(s)\n- `Shadow/input-box-shadow/Dark`: 2 layer(s)\n- `Shadow/shadow-elevation-overlay/Light`: 2 layer(s)\n- `Shadow/shadow-elevation-overlay/Dark`: 2 layer(s)\n\n## Now publish\n\nNo changes were written.",
   "guards": [],
   "changelog": {
-    "title": "Sync ce97095",
+    "title": "Sync c5f044e",
     "lines": [
       "var(--rs-color-popover): #ffffff / #171717",
       "var(--rs-color-popover-foreground): #0a0a0a / #fafafa",
@@ -11656,20 +11750,20 @@
       "var(--rs-color-rarity-legendary-fg): #8b5904 / #fcd592",
       "var(--rs-color-rarity-mythic-bg): #fce8e8 / #6b2424",
       "var(--rs-color-rarity-mythic-fg): #9c1616 / #fba7a7",
-      "var(--rs-color-chart-1): #2f7fd4 / #2f7fd4",
-      "var(--rs-color-chart-2): #d96f2b / #d96f2b",
-      "var(--rs-color-chart-3): #00958a / #00958a",
-      "var(--rs-color-chart-4): #a87e00 / #a87e00",
-      "var(--rs-color-chart-5): #7c4fc9 / #976be0",
-      "var(--rs-color-chart-6): #6f9317 / #6f9317",
-      "var(--rs-color-chart-7): #e2669e / #d65c90",
-      "var(--rs-color-chart-8): #a35a2e / #a35a2e",
-      "var(--rs-color-chart-9): #2b93bb / #289dc9",
-      "var(--rs-color-chart-10): #4c46c8 / #665ee0",
+      "var(--rs-color-chart-1): #104e64 / #104e64",
+      "var(--rs-color-chart-2): #009689 / #009689",
+      "var(--rs-color-chart-3): #f54a00 / #f54a00",
+      "var(--rs-color-chart-4): #f87171 / #f87171",
+      "var(--rs-color-chart-5): #ffb900 / #ffb900",
+      "var(--rs-color-chart-6): #fe9a00 / #fe9a00",
+      "var(--rs-color-chart-7): #38bdf8 / #38bdf8",
+      "var(--rs-color-chart-8): #3b82f6 / #3b82f6",
+      "var(--rs-color-chart-9): #2563eb / #2563eb",
+      "var(--rs-color-chart-10): #1e40af / #1e40af",
+      "var(--rs-color-chart-11): #a78bfa / #a78bfa",
+      "var(--rs-color-chart-12): #8b5cf6 / #8b5cf6",
       "var(--rs-color-status-fully-implemented): #16a34a / #16a34a",
-      "var(--rs-color-status-partially-implemented): #eab308 / #eab308",
-      "var(--rs-color-status-not-implemented): #f87171 / #f87171",
-      "… and 21 more"
+      "… and 23 more"
     ]
   }
 }
